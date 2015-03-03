@@ -1,0 +1,169 @@
+2015-03-02T16:13:25+08:00 [Route] flight\net\Request Object
+(
+    [url] => /
+    [base] => /FlightExt
+    [method] => GET
+    [referrer] => 
+    [ip] => ::1
+    [ajax] => 
+    [scheme] => HTTP/1.1
+    [user_agent] => Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+    [type] => 
+    [length] => 0
+    [query] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [data] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [cookies] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [files] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [secure] => 
+    [accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [proxy_ip] => 
+)
+
+2015-03-02T16:13:25+08:00 [Route] Array
+(
+    [code] => 404
+    [data] => Array
+        (
+            [success] => false
+            [message] => 喵了个咪的，页面找不到了
+        )
+
+)
+
+2015-03-02T16:15:36+08:00 [Route] flight\net\Request Object
+(
+    [url] => /
+    [base] => /FlightExt
+    [method] => GET
+    [referrer] => 
+    [ip] => ::1
+    [ajax] => 
+    [scheme] => HTTP/1.1
+    [user_agent] => Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+    [type] => 
+    [length] => 0
+    [query] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [data] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [cookies] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [files] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [secure] => 
+    [accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [proxy_ip] => 
+)
+
+2015-03-02T16:15:44+08:00 [Route] flight\net\Request Object
+(
+    [url] => /sample
+    [base] => /FlightExt
+    [method] => GET
+    [referrer] => 
+    [ip] => ::1
+    [ajax] => 
+    [scheme] => HTTP/1.1
+    [user_agent] => Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+    [type] => 
+    [length] => 0
+    [query] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [data] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [cookies] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [files] => flight\util\Collection Object
+        (
+            [data:flight\util\Collection:private] => Array
+                (
+                )
+
+        )
+
+    [secure] => 
+    [accept] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [proxy_ip] => 
+)
+
+2015-03-02T16:15:44+08:00 [Route] Array
+(
+    [code] => 200
+    [data] => Array
+        (
+            [success] => true
+            [message] => for test
+        )
+
+)
+
